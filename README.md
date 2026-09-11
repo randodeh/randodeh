@@ -18,4 +18,4 @@ Second-year Data Science & AI student, always looking to expand my skillset and 
 
 #### Things I love/ define me
 
-Cats, foxes, cinnamon buns, cycling, Ariana Grande & Madison Beer, tea, coding, 90% dark chocolate :D, positively impacting society & the environemnt
+Cats, foxes, cinnamon buns, cycling, Ariana Grande & Madison Beer, tea, coding, 90% dark chocolate :D, positively impacting society & the environment
