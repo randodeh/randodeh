@@ -1,12 +1,19 @@
 ### Hey, I'm Rand
 
-Second-year Data Science & AI student, always looking to expand my skillset and keep a broad range across a few different areas:
+Second-year Data Science & AI student. I love expanding my skill set and just recently i won a quantum computing hackathon challenge 
 
-- **Full-stack web development**, including working through the Google stack (Search Console, GA4, Cloud Run, Firebase Storage)
-- **Data science**, using data to answer questions I'm curious about (like my fast fashion project below)
-- **Hardware**, only tried Arduino once so far, but want to explore it more
+### What I work on
+
+- **Full-stack web development**, including the Google stack (Search Console, GA4, Cloud Run, Firebase Storage)
+- **Human-centred UX design**
+- **Data science**
+- **Quantum computing**, new to it since Moth Hack 2026
+- **Hardware**, only tried Arduino once so far
+
 
 #### Featured projects
+
+[The Quantum Diary](https://github.com/randodeh/quantum-diary), a diary that listens to how you type, not just what you write, turning each entry into its own song and brain map with quantum engines. Won the "Make it audible" challenge at Moth Hack 2026 ([try it](https://quantum-diary.onrender.com))
 
 [H&M Product Assortment Analysis](https://github.com/randodeh/hm-assortment-analysis), what H&M's product catalogue reveals about who fast fashion is really built for
 
