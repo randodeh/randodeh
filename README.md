@@ -25,4 +25,4 @@ Second-year Data Science & AI student. I love expanding my skill set and just re
 
 #### Things I love
 
-Cats, foxes, cinnamon buns, cycling, Ariana Grande & Madison Beer, tea, coding, 90% dark chocolate, running
+Cats, foxes, cinnamon buns, cycling, tea, coding, 90% dark chocolate, running
