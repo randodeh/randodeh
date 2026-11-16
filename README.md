@@ -1,6 +1,6 @@
 ### Hey, I'm Rand
 
-Second-year Data Science & AI student. I love expanding my skill set, and I recently won OxHack26, the University of Oxford hackathon, and a challenge at Moth Hack 2026, a quantum computing hackathon. I've also built projects at AgentVerse (UCL) and the Imperial AI Hackathon.
+Second-year Data Science & AI student. I love expanding my skill set, and I recently won OxHack26, the University of Oxford hackathon, and a challenge at Moth Hack 2026, a quantum computing hackathon. I've also built projects at AgentVerse (UCL hackathon) and the Imperial AI Hackathon.
 
 ### What I work on
 
@@ -18,7 +18,7 @@ Second-year Data Science & AI student. I love expanding my skill set, and I rece
 
 [The Quantum Diary](https://github.com/randodeh/quantum-diary), a diary that listens to how you type, not just what you write, turning each entry into its own song and brain map with quantum engines. Won the "Make it audible" challenge at Moth Hack 2026 ([try it](https://quantum-diary.onrender.com))
 
-[Caddy](https://github.com/randodeh/agveraserobotics), an autonomous service robot for unmanned data centres that works out what's really broken, swaps failed drives safely, and knows when not to touch anything. Built at AgentVerse, a UCL hackathon
+[Caddy](https://github.com/randodeh/agveraserobotics), an autonomous service robot for unmanned data centres that works out what's really broken, swaps failed drives safely, and knows when not to touch anything. Built at AgentVerse (UCL hackathon)
 
 [Stitch](https://github.com/randodeh/imperial-ai-hackathon), watches the first hours of a wound-healing lab time-lapse and forecasts how the wound will close, with an agent that runs the experiment check by check and asks a person before stopping anything. Built in 24 hours at the Imperial AI Hackathon 2026 (AI for Science track) in a team of 3
 
