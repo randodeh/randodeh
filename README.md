@@ -5,11 +5,12 @@ Second-year Data Science & AI student. I love expanding my skill set, and I rece
 ### What I work on
 
 - **Full-stack web development**, including the Google stack (Search Console, GA4, Cloud Run, Firebase Storage)
-- **Human-centred UX design**
+- **Human-centred UX design**, including designing in Figma
 - **Data science**
+- **AI agents**, building agents that reason step by step and know when to ask a human
 - **Voice AI**, including voice cloning, text-to-speech and speech-to-text with ElevenLabs
 - **Quantum computing**, new to it since Moth Hack 2026
-- **Hardware**, only tried Arduino once so far
+- **Hardware & robotics**, from Arduino to a simulated data-centre robot
 
 
 #### Featured projects
