@@ -15,7 +15,7 @@ Second-year Data Science & AI student. I love expanding my skill set, and I rece
 
 #### Featured projects
 
-[Court of Future Selves](https://github.com/ephemerallyCaden/oxhack-elevenlabs-hackathon), an AI courtroom where your best and worst future selves debate a life decision in your own cloned voice, and a judge gives a verdict. Winner of OxHack26 at the University of Oxford. I built the voice system in a team of 4, using ElevenLabs and Next.js on Vercel ([Devpost](https://devpost.com/software/roulette-b0gz3c))
+[Roulette](https://github.com/ephemerallyCaden/oxhack-elevenlabs-hackathon), an AI courtroom where your best and worst future selves debate a life decision in your own cloned voice, and a judge gives a verdict. Winner of OxHack26 at the University of Oxford. I built the voice system in a team of 4, using ElevenLabs and Next.js on Vercel ([Devpost](https://devpost.com/software/roulette-b0gz3c))
 
 [The Quantum Diary](https://github.com/randodeh/quantum-diary), a diary that listens to how you type, not just what you write, turning each entry into its own song and brain map with quantum engines. Won the "Make it audible" challenge at Moth Hack 2026 ([try it](https://quantum-diary.onrender.com))
 
